@@ -1,0 +1,4 @@
+algorithm,rmse
+Linear Regression,212.61485283242922
+Ridge Refgression,212.51131041815003
+Lasso Regression,214.3205384732357

@@ -1,0 +1,4 @@
+algorithm,r2score
+Linear Regression,99.01413975844629
+Ridge Refgression,99.01509974306035
+Lasso Regression,98.99825833947347

@@ -1,0 +1,43 @@
+﻿diffgr:id,msdata:rowOrder,State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Table1,0,Andhra Pradesh,Chittor,Chittoor,Gur(Jaggery),NO 1,FAQ,24-02-2023,4000,4100,4000
+Table2,1,Andhra Pradesh,Chittor,Chittoor,Gur(Jaggery),NO 2,FAQ,24-02-2023,3000,3500,3500
+Table3,2,Andhra Pradesh,Chittor,Chittoor,Gur(Jaggery),NO 3,FAQ,24-02-2023,2300,2300,2300
+Table4,3,Andhra Pradesh,Chittor,Punganur,Tomato,Hybrid,FAQ,24-02-2023,1340,2000,1670
+Table5,4,Andhra Pradesh,Chittor,Vayalapadu,Tomato,Local,FAQ,24-02-2023,640,2160,1400
+Table6,5,Andhra Pradesh,Kurnool,Alur,Tomato,Local,FAQ,24-02-2023,2780,2940,2860
+Table7,6,Andhra Pradesh,Kurnool,Atmakur,Maize,Hybrid/Local,FAQ,24-02-2023,1962,1962,1962
+Table8,7,Andhra Pradesh,Kurnool,Atmakur,Lemon,Local,FAQ,24-02-2023,2040,2040,2040
+Table9,8,Andhra Pradesh,Kurnool,Banaganapalli,Onion,Desi (Whole),FAQ,24-02-2023,4600,4800,4700
+Table10,9,Andhra Pradesh,Kurnool,Banaganapalli,Tomato,Jowar ( White),FAQ,24-02-2023,2800,3100,3000
+Table11,10,Andhra Pradesh,Kurnool,Banaganapalli,Lemon,Sona Mahsuri,FAQ,24-02-2023,1850,2150,2050
+Table12,11,Andhra Pradesh,Kurnool,Nandikotkur,Onion,Gulabi,FAQ,24-02-2023,5230,5230,5230
+Table13,12,Andhra Pradesh,Kurnool,Nandikotkur,Maize,Hybrid,FAQ,24-02-2023,1962,1962,1962
+Table14,13,Andhra Pradesh,Kurnool,Nandikotkur,Lemon,Sona,FAQ,24-02-2023,2040,2040,2040
+Table15,14,Andhra Pradesh,West Godavari,Gopalavaram,Lemon,Lemon,FAQ,24-02-2023,4800,5800,5200
+Table16,15,Bihar,Bhojpur,Bihiya,Onion,Arkasheela Mattigulla,FAQ,24-02-2023,1600,1800,1700
+Table17,16,Bihar,Kaimur/Bhabhua,Kaimur,Tomato,Other,FAQ,24-02-2023,550,650,600
+Table18,17,Bihar,Kaimur/Bhabhua,Kaimur,Onion,1st Sort,FAQ,24-02-2023,1300,1400,1350
+Table19,18,Bihar,Kaimur/Bhabhua,Kaimur,Potato,(Red Nanital),FAQ,24-02-2023,600,700,650
+Table20,19,Bihar,Kishanganj,Bahadurganj,Apple,American,Medium,24-02-2023,7000,8000,7500
+Table21,20,Bihar,Kishanganj,Bahadurganj,Banana,Amruthapani,Medium,24-02-2023,2000,2400,2200
+Table22,21,Bihar,Kishanganj,Bahadurganj,Cabbage,Cabbage,FAQ,24-02-2023,700,800,750
+Table23,22,Bihar,Kishanganj,Bahadurganj,Tomato,African Sarson,FAQ,24-02-2023,600,800,700
+Table24,23,Bihar,Kishanganj,Bahadurganj,Tomato,Coriander,FAQ,24-02-2023,5000,6000,5500
+Table25,24,Bihar,Kishanganj,Bahadurganj,Onion,Annabesahai,Medium,24-02-2023,4500,0,5000
+Table26,25,Bihar,Kishanganj,Bahadurganj,Onion,1st Sort,FAQ,24-02-2023,1500,1700,1600
+Table27,26,Bihar,Kishanganj,Bahadurganj,Potato,(Red Nanital),FAQ,24-02-2023,700,800,750
+Table28,27,Bihar,Kishanganj,Bahadurganj,Tomato,Deshi,FAQ,24-02-2023,1300,1400,1350
+Table29,28,Bihar,Munghair,Munghair,Tomato,Bottle Gourd,FAQ,24-02-2023,2000,2500,2400
+Table30,29,Bihar,Munghair,Munghair,Onion,Arkasheela Mattigulla,FAQ,24-02-2023,2000,2500,2200
+Table31,30,Bihar,Munghair,Munghair,Onion,Cabbage,FAQ,24-02-2023,1200,1400,1200
+Table32,31,Bihar,Munghair,Munghair,Tomato,African Sarson,FAQ,24-02-2023,1000,1400,1200
+Table33,32,Bihar,Munghair,Munghair,Tomato,Field Pea,FAQ,24-02-2023,1400,1600,1500
+Table34,33,Bihar,Munghair,Munghair,Onion,1st Sort,FAQ,24-02-2023,1200,1500,1500
+Table35,34,Bihar,Munghair,Munghair,Potato,(Red Nanital),FAQ,24-02-2023,800,1200,1200
+Table36,35,Bihar,Munghair,Munghair,Potato,Other,FAQ,24-02-2023,1200,1500,1400
+Table37,36,Bihar,Munghair,Munghair,Tomato,Deshi,FAQ,24-02-2023,1000,1400,1200
+Table38,37,Bihar,Nawada,Nawada,Tomato,Bhindi,FAQ,24-02-2023,5000,6000,5050
+Table39,38,Bihar,Nawada,Nawada,Onion,Other,FAQ,24-02-2023,500,600,550
+Table40,39,Bihar,Nawada,Nawada,Cabbage,Cabbage,FAQ,24-02-2023,350,450,400
+Table41,40,Bihar,Nawada,Nawada,Onion,Other,FAQ,24-02-2023,1450,1550,1500
+Table42,41,Bihar,Nawada,Nawada,Potato,Other,FAQ,24-02-2023,400,500,450
